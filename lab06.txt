@@ -1,0 +1,21 @@
+Zayd Abushamma
+Abushamma.5@wright.edu
+
+Part 1.
+1.UEFI
+2.intel core i7-4600u @2.10ghz, 2 cores
+3.8.0gb
+4.total virtual memory-9.5gb, available-5.30gb, pagefile-C:/pagefile.sys,
+where the computer stores files and programs using ram.
+5.NTFS
+6. 3 partitions, windows hd(c:) is primary.
+7. restarted the computer clicked advanced options, then UEFI firmware setting.
+
+part 2.
+1. a buch of boot options such as saftey mode.
+2.67g used ,156g free
+3.c drive, GPT, Legacy
+4.Hewlett-Packard L71 Ver. 01.48, 8/29/2019
+.Intel(R) Core(TM) i7-4600U CPU @ 2.10GHz,8gb
+5.cat /proc/meminfo,cat /proc/swaps,swapon -s,vmstat, all valuable code associated with swap files.
+yes by swapon -s
